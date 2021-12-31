@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Project5_zsg6_ivb8</string>
+    <string name ="welcome1">Welcome to the 1st page!</string>
+    <string name ="welcome2"> Customization Menu</string>
+    <string-array name="sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string name ="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="price">Price:</string>
+    <string-array name="alltoppingsminuspepperoni">
+        <item>Mushroom</item>
+        <item>Pineapple</item>
+        <item>Mozzarella</item>
+        <item>Olives</item>
+        <item>Spinach</item>
+        <item>Ham</item>
+    </string-array>
+    <string-array name="hawaiiantoppings">
+        <item>Pineapple</item>
+        <item>Ham</item>
+    </string-array>
+    <string-array name="deluxetoppings">
+        <item>Pepperoni</item>
+        <item>Mushroom</item>
+        <item>Mozzarella</item>
+        <item>Olives</item>
+        <item>Spinach</item>
+    </string-array>
+    <string-array name="pepperonitoppings">
+        <item>Pepperoni</item>
+    </string-array>
+    <string name="selected">Selected Toppings:</string>
+    <string name="additional">Additional Toppings:</string>
+    <string name ="numberPrompt"> Phone Number: </string>
+    <string name ="subtotalPrompt"> Subtotal $ </string>
+    <string name ="taxPrompt"> Sales Tax $ </string>
+    <string name ="totalPrompt"> Order Total $ </string>
+    <string name ="place"> Place Order </string>
+    <string name ="cancel"> Cancel Order </string>
+    <string name ="export"> Export Store Orders </string>
+    <string name="submit">Submit</string>
+    <string name="addedtoorder">Added to order!</string>
+    <string name="cantaddtoorder">Theres no current order to add!</string>
+    <string name="orderCanceled">Order is cancelled!</string>
+    <string name="noOrderSelected">No Order Selected!</string>
+    <string name ="tenDigits">Send in a # with 10 digits please"</string>
+    <string name="onlyNums">Send in only numbers please rather than: </string>
+    <string name="diffOrder">The current order has a diff # of: </string>
+    <string name="useCart">. Please use the cart to confirm or cancel the order.</string>
+    <string name="noMorePizzas">Cant remove anymore pizzas.</string>
+    <string name="selectPizzaRemove">Please select a pizza to remove</string>
+    <string name="makeOrder">Please make an order before checking out.</string>
+    <string name="cantAccessStore">Cant access the store orders without adding an order.</string>
+    <string name="hawaiianDesc">Hawaiian Pizza</string>
+    <string name="deluxeDesc">Deluxe Pizza</string>
+    <string name="pepperoniDesc">Pepperoni Pizza</string>
+    <string name="currentDesc">Current Order</string>
+    <string name="storeDesc">Store Orders</string>
+    <string name="pizzaDesc">The Pizza</string>
+    <string name="example">1000000000</string>
+</resources>
